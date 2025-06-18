@@ -1,0 +1,20 @@
+{
+  "name": "deploy-backend-code",
+  "version": "1.0.0",
+  "description": "a basic backend app to deploy",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "apurva jayswal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
